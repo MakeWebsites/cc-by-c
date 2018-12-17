@@ -1,0 +1,104 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-31 11:49+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-08-26 09:43+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+
+msgid "Title:"
+msgstr "Título:"
+
+#: cc-by-country.php:66
+msgid "Temperature"
+msgstr "Temperatura"
+
+#: cc-by-country.php:68
+msgid "Precipitation"
+msgstr "Precipitación"
+
+#: cc-by-country.php:71
+msgid "Climate Data for "
+msgstr "Datos Climáticos para "
+
+#: cc-by-country.php:79
+msgid "Select Temperature"
+msgstr "Seleccionar Temperatura"
+
+#: cc-by-country.php:84
+msgid "Select Precipitation"
+msgstr "Seleccionar Precipitación"
+
+#: cc-by-country.php:90
+msgid "Trend in the last 100 years"
+msgstr "Tendencia en los últimos 100 años"
+
+#: cc-by-country.php:94
+msgid "Expected differences during this century according to A2 and B1 emission scenarios"
+msgstr "Diferencias esperadas durante este siglo, según los escenarios A2 y B1"
+
+#: cc-by-country.php:100
+msgid "Submit"
+msgstr "Enviar"
+
+#: cc-by-country.php:99
+msgid "Select another country...."
+msgstr "Seleccionar otro país...."
+
+#: cc-by-country.php:110
+msgid "Period"
+msgstr "Período"
+
+#: cc-by-country.php:120
+msgid "Year"
+msgstr "Año"
+
+msgid "Climate Change effects"
+msgstr "Efectos del Cambio Climático"
+
+msgid "Country's temperature and precipitation charts according to Climate Change scenarios"
+msgstr "Temperaturas y precipitaciones futuras en el país según escenarios del Cambio Climático"
+
+msgid "Climate Change country charts"
+msgstr "Cambio Climático: Gráficos para el país"
+
+msgid "Include historical trend"
+msgstr "Incluir tendencia histórica"
+
+msgid "Exclude historical trend"
+msgstr "Excluir tendencia histórica"
+
+msgid "Allow country selection"
+msgstr "Permitir selección del país"
+
+msgid "Disable country selection"
+msgstr "Deshabilitar selección de país"
+
+msgid "Remove 'More information' link"
+msgstr "Eliminar enlace con 'Más información'"
+
+msgid "Include a 'More information' link"
+msgstr "Incluir enlace con 'Más información'"
+
+msgid "Exclude chart title"
+msgstr "Excluir título del gráfico"
+
+msgid "More information"
+msgstr "Más información"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Drawing the charts"
+msgstr "Generando los gráficos"
+
+msgid "climate-change-effects-country/"
+msgstr "es/efectos-del-cambio-climatico-por-pais/"
